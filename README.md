@@ -1,2 +1,2 @@
-# Precourse
-trying software engineering
+# abandoned
+none
